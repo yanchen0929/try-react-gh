@@ -2,12 +2,12 @@ import styled from "styled-components";
 
 export const Wrapper = styled.div`
   .navbar {
-    height: 2.18rem;
+    height: 1.74rem;
     background: #fff;
     border-bottom: 1px solid #ccc;
     .nav-box {
-      height: 2.18rem !important;
-      line-height: 2.18rem !important;
+      height: 1.74rem !important;
+      line-height: 1.74rem !important;
     }
     .nav-item {
       width: auto !important;
@@ -16,14 +16,14 @@ export const Wrapper = styled.div`
       flex: 1;
       text-align: center;
       justify-content: center;
-      font-size: 1rem;
+      font-size: 16px;
       color: #666;
-      border-bottom: 0.06rem solid #ebebeb;
+      border-bottom: 0.04rem solid #ebebeb;
       &.active::after {
         content: "";
         background-color: red;
         width: 3rem;
-        height: 0.1rem;
+        height: 0.08rem;
         position: absolute;
         bottom: 0;
         left: 0;

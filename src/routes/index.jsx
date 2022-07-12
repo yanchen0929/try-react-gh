@@ -9,6 +9,7 @@ const Often = lazy(() => import("../pages/Food/Often"));
 const Conduct = lazy(() => import("../pages/Order/Conduct"));
 const History = lazy(() => import("../pages/Order/History"));
 const Back = lazy(() => import("../pages/Order/Back"));
+const OrderDetail = lazy(() => import("../pages/Orderdetail"))
 
 export default function RoutesConfig() {
   return (
@@ -26,6 +27,7 @@ export default function RoutesConfig() {
           <Route path="/food/often" element={<Often />} />
         </Route>
         <Route path="/mine" element={<Mine />} />
+        <Route path="/orderdetail/:id" element={<OrderDetail />}/>
       </Routes>
     </>
   );

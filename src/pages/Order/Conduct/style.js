@@ -2,25 +2,27 @@ import styled from "styled-components";
 
 export const Wrapper = styled.div`
     .box {
+        text-align: center;
         width: 100%;
-        height: 900px;
+        height: 50rem;
         background-color: rgb(245,245,245);
         .title {
             position: relative;
             margin: 0 auto;
             img {
-                width: 100%;
+                width: 70%;
                 position: absolute;
-                top: 100px;
+                top: 10rem;
+                right: 3.5rem;
             }
             .quick {
                 position: relative;
-                top: 500px;
+                top: 25rem;
             }
         }
         .button {
             position: relative;
-            top: 520px;
+            top: 26rem;
         }
     }
 `

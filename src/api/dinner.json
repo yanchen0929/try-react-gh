@@ -1,0 +1,411 @@
+{
+    "milklist": [
+        {
+            "_id": "5cf8cf4d815bda12289d8671",
+            "id": 1,
+            "img": "https://fuss10.elemecdn.com/9/2c/03954a80580dab3c940bbf74366b4png.png?imageMogr/thumbnail/!64x64r/gravity/Center/crop/64x64/",
+            "name": "原味冰激凌",
+            "foods": [
+                {
+                    "name": "雪王雪顶咖啡",
+                    "img": "https://p0.meituan.net/208.126/deal/33fc915651422cb844f4cf668ef1cbcd186969.jpg@100w_100h_1e_1c",
+                    "month_sales": "冰激凌加咖啡，提神醒脑来一杯",
+                    "lowest_price": 6
+                },
+                {
+                    "name": "草莓摇摇奶昔",
+                    "img": "https://p0.meituan.net/208.126/deal/3dd131653168a1ba934f70c9765c22d1169137.jpg@100w_100h_1e_1c",
+                    "month_sales": "冰激凌配草莓，一口春天味",
+                    "lowest_price": 6
+                },
+                {
+                    "name": "摩卡摇摇奶昔",
+                    "img": "https://p0.meituan.net/208.126/deal/99bd9ca23bf51c5497a03f5836d1a52d146764.jpg@100w_100h_1e_1c",
+                    "month_sales": "咖啡遇上冰激凌，清创更提神",
+                    "lowest_price": 6
+                },
+                {
+                    "name": "桃桃摇摇奶昔",
+                    "img": "https://p0.meituan.net/208.126/deal/706d497e40bced29633c5e1f3b23f21823984.jpg@100w_100h_1e_1c",
+                    "month_sales": "冰激凌配桃桃，喝前摇一摇",
+                    "lowest_price": 6
+                },
+                {
+                    "name": "雪王大圣代(黑糖珍珠)",
+                    "img": "https://p0.meituan.net/208.126/deal/95508cf2e8c0ea9f91f15932364ab3f8136814.jpg@100w_100h_1e_1c",
+                    "month_sales": "黑糖珍珠新吃法，搭配冰激凌弹弹哒",
+                    "lowest_price": 6
+                },
+                {
+                    "name": "雪王大圣代(芒果)",
+                    "img": "https://p0.meituan.net/208.126/deal/7e83b0040385d799bcb912e7bda50502139303.jpg@100w_100h_1e_1c",
+                    "month_sales": "粒粒芒果肉，就是吃不够",
+                    "lowest_price": 6
+                },
+                {
+                    "name": "雪王大圣代(草莓)",
+                    "img": "https://p1.meituan.net/208.126/deal/0e7a9f691a393255c3a03dd47ee0d8aa124668.jpg@100w_100h_1e_1c",
+                    "month_sales": "甜甜草莓酱，一口就爱上",
+                    "lowest_price": 6
+                }
+            ]
+        },
+        {
+            "_id": "5cf8cf4d815bda12289d8672",
+            "id": 2,
+            "img": "https://fuss10.elemecdn.com/2/6a/477ba0ff2e0b8924bf6d75918809cjpeg.jpeg?imageMogr/thumbnail/!64x64r/gravity/Center/crop/64x64/",
+            "name": "双炫冰激凌",
+            "foods": [
+                {
+                    "name": "雪王雪顶咖啡",
+                    "img": "https://p0.meituan.net/208.126/deal/33fc915651422cb844f4cf668ef1cbcd186969.jpg@100w_100h_1e_1c",
+                    "month_sales": "冰激凌加咖啡，提神醒脑来一杯",
+                    "lowest_price": 6
+                },
+                {
+                    "name": "草莓摇摇奶昔",
+                    "img": "https://p0.meituan.net/208.126/deal/3dd131653168a1ba934f70c9765c22d1169137.jpg@100w_100h_1e_1c",
+                    "month_sales": "冰激凌配草莓，一口春天味",
+                    "lowest_price": 6
+                },
+                {
+                    "name": "摩卡摇摇奶昔",
+                    "img": "https://p0.meituan.net/208.126/deal/99bd9ca23bf51c5497a03f5836d1a52d146764.jpg@100w_100h_1e_1c",
+                    "month_sales": "咖啡遇上冰激凌，清创更提神",
+                    "lowest_price": 6
+                },
+                {
+                    "name": "桃桃摇摇奶昔",
+                    "img": "https://p0.meituan.net/208.126/deal/706d497e40bced29633c5e1f3b23f21823984.jpg@100w_100h_1e_1c",
+                    "month_sales": "冰激凌配桃桃，喝前摇一摇",
+                    "lowest_price": 6
+                },
+                {
+                    "name": "摩天脆脆",
+                    "img": "https://p0.meituan.net/208.126/deal/051664879fb51a854f17958902c5e76793005.jpg@100w_100h_1e_1c",
+                    "month_sales": "一口双色双味",
+                    "lowest_price": 3
+                },
+                {
+                    "name": "雪王大圣代(奥利奥)",
+                    "img": "https://p0.meituan.net/208.126/deal/efa75f7c36d75616adf765079b24cc3d129560.jpg@100w_100h_1e_1c",
+                    "month_sales": "催催奥利奥，一起奥利给",
+                    "lowest_price": 6
+                },
+                {
+                    "name": "甜爽2人餐",
+                    "img": "https://p0.meituan.net/208.126/deal/1f87cd1b3816a4248e35249e6173e3ab190222.jpg@100w_100h_1e_1c",
+                    "month_sales": "一杯冰鲜柠檬水+一杯草莓摇摇奶昔",
+                    "lowest_price": 10
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "5cf8cf4d815bda12289d8673",
+            "id": 3,
+            "img": "https://fuss10.elemecdn.com/c/69/88e525284f113bd7078fdf5fb01fbpng.png?imageMogr/thumbnail/!64x64r/gravity/Center/crop/64x64/",
+            "name": "限定套餐",
+            "foods": [
+                {
+                    "name": "清爽2人餐",
+                    "img": "https://p0.meituan.net/208.126/deal/7e83b0040385d799bcb912e7bda50502139303.jpg@100w_100h_1e_1c",
+                    "month_sales": "一杯冰鲜柠檬水+一杯满杯百香果",
+                    "lowest_price": 11
+                },
+                {
+                    "name": "果爽2人餐",
+                    "img": "https://p0.meituan.net/208.126/deal/706d497e40bced29633c5e1f3b23f21823984.jpg@100w_100h_1e_1c",
+                    "month_sales": "一杯棒打鲜橙+一杯蜜桃四季春",
+                    "lowest_price": 12
+                },
+                {
+                    "name": "果茶巨头3人餐",
+                    "img": "https://p0.meituan.net/208.126/deal/99bd9ca23bf51c5497a03f5836d1a52d146764.jpg@100w_100h_1e_1c",
+                    "month_sales": "一杯冰鲜柠檬水+一杯蜜桃四季春+一杯满杯百香果",
+                    "lowest_price": 21
+                },
+                {
+                    "name": "酸酸甜甜3人餐",
+                    "img": "https://p0.meituan.net/208.126/deal/efa75f7c36d75616adf765079b24cc3d129560.jpg@100w_100h_1e_1c",
+                    "month_sales": "一杯雪王大圣代+一杯蜜桃四季春+一杯棒打鲜橙",
+                    "lowest_price": 18
+                },
+                {
+                    "name": "冰鲜柠檬水",
+                    "img": "https://p1.meituan.net/208.126/deal/0e7a9f691a393255c3a03dd47ee0d8aa124668.jpg@100w_100h_1e_1c",
+                    "month_sales": "大片柠檬看得见，现切现捣超新鲜",
+                    "lowest_price": 4
+                },
+                {
+                    "name": "森林玫果",
+                    "img": "https://p1.meituan.net/208.126/deal/7cd8051fcf9bfe4c87fcef1bf4bc0ec396003.jpg@100w_100h_1e_1c",
+                    "month_sales": "酸甜开胃，大自然的滋味",
+                    "lowest_price": 5
+                },
+                {
+                    "name": "黄桃果霸",
+                    "img": "https://p0.meituan.net/208.126/deal/95508cf2e8c0ea9f91f15932364ab3f8136814.jpg@100w_100h_1e_1c",
+                    "month_sales": "黄桃大果肉，吨吨和不够",
+                    "lowest_price": 6
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "5cf8cf4d815bda12289d8674",
+            "id": 4,
+            "img": "https://fuss10.elemecdn.com/e/de/268d01fa888be30d70adba9a4b8f7jpeg.jpeg?imageMogr/thumbnail/!64x64r/gravity/Center/crop/64x64/",
+            "name": "真鲜果茶",
+            "foods": [
+                {
+                    "name": "棒打鲜橙",
+                    "img": "https://p0.meituan.net/208.126/deal/051664879fb51a854f17958902c5e76793005.jpg@100w_100h_1e_1c",
+                    "month_sales": "现捣鲜橙超给力，一杯满满补维C",
+                    "lowest_price": 6
+                },
+                {
+                    "name": "蜜桃四季春",
+                    "img": "https://p1.meituan.net/208.126/deal/046428a95a64a1756d62245901bc4d9f172182.jpg@100w_100h_1e_1c",
+                    "month_sales": "蜜桃四季春，四季桃花运",
+                    "lowest_price": 6
+                },
+                {
+                    "name": "满杯百香果(新)",
+                    "img": "https://p0.meituan.net/208.126/deal/16d3d4fcc6d352ad98bb94265f41a236119203.jpg@100w_100h_1e_1c",
+                    "month_sales": "经典百香果，珍珠加椰果",
+                    "lowest_price": 7
+                },
+                {
+                    "name": "鲜橙益菌多",
+                    "img": "https://p0.meituan.net/208.126/deal/1f87cd1b3816a4248e35249e6173e3ab190222.jpg@100w_100h_1e_1c",
+                    "month_sales": "鲜橙益菌多，肠道做运动",
+                    "lowest_price": 8
+                },
+                {
+                    "name": "港式杨枝甘露(新)",
+                    "img": "https://p1.meituan.net/208.126/deal/046428a95a64a1756d62245901bc4d9f172182.jpg@100w_100h_1e_1c",
+                    "month_sales": "杯装港式甜品，痴痴想上瘾~",
+                    "lowest_price": 10
+                },
+                {
+                    "name": "芋圆葡萄(升级版)",
+                    "img": "https://p0.meituan.net/208.126/deal/7e83b0040385d799bcb912e7bda50502139303.jpg@100w_100h_1e_1c",
+                    "month_sales": "梦幻葡萄紫，芋圆嚼不腻",
+                    "lowest_price": 8
+                },
+                {
+                    "name": "荔枝啵啵(升级版)",
+                    "img": "https://p0.meituan.net/208.126/deal/706d497e40bced29633c5e1f3b23f21823984.jpg@100w_100h_1e_1c",
+                    "month_sales": "荔枝脆啵啵，清甜果肉多",
+                    "lowest_price": 7
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "5cf8cf4d815bda12289d8675",
+            "id": 5,
+            "img": "https://fuss10.elemecdn.com/b/35/3c4ab3732822e4dfa14cb3ccffb9bpng.png?imageMogr/thumbnail/!64x64r/gravity/Center/crop/64x64/",
+            "name": "醇香奶茶",
+            "foods": [
+                {
+                    "name": "草莓啵啵(升级版)",
+                    "img": "https://p0.meituan.net/208.126/deal/99bd9ca23bf51c5497a03f5836d1a52d146764.jpg@100w_100h_1e_1c",
+                    "month_sales": "草莓啵啵，甜蜜啵一个",
+                    "lowest_price": 9
+                },
+                {
+                    "name": "港式杨枝甘露(升级版)",
+                    "img": "https://p0.meituan.net/208.126/deal/efa75f7c36d75616adf765079b24cc3d129560.jpg@100w_100h_1e_1c",
+                    "month_sales": "芒果加西柚，双倍鲜果肉",
+                    "lowest_price": 10
+                },
+                {
+                    "name": "草莓奶露",
+                    "img": "https://p1.meituan.net/208.126/deal/0e7a9f691a393255c3a03dd47ee0d8aa124668.jpg@100w_100h_1e_1c",
+                    "month_sales": "草莓正当季，甜到银河系",
+                    "lowest_price": 10
+                },
+                {
+                    "name": "珍珠奶茶",
+                    "img": "https://p1.meituan.net/208.126/deal/7cd8051fcf9bfe4c87fcef1bf4bc0ec396003.jpg@100w_100h_1e_1c",
+                    "month_sales": "慢熬珍珠现煮茶，奶茶经典好香呀",
+                    "lowest_price": 6
+                },
+                {
+                    "name": "双拼奶茶",
+                    "img": "https://p0.meituan.net/208.126/deal/95508cf2e8c0ea9f91f15932364ab3f8136814.jpg@100w_100h_1e_1c",
+                    "month_sales": "小料双倍，多重美味",
+                    "lowest_price": 7
+                },
+                {
+                    "name": "黑糖珍珠奶茶",
+                    "img": "https://p0.meituan.net/208.126/deal/051664879fb51a854f17958902c5e76793005.jpg@100w_100h_1e_1c",
+                    "month_sales": "丝丝黑糖香又甜，颗颗珍珠润又弹",
+                    "lowest_price": 7
+                },
+                {
+                    "name": "椰果奶茶",
+                    "img": "https://p1.meituan.net/208.126/deal/046428a95a64a1756d62245901bc4d9f172182.jpg@100w_100h_1e_1c",
+                    "month_sales": "椰果和奶茶，香香脆脆哒",
+                    "lowest_price": 8
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "5cf8cf4d815bda12289d8676",
+            "id": 6,
+            "img": "https://fuss10.elemecdn.com/6/fe/198c145423b994044ea149929b474jpeg.jpeg?imageMogr/thumbnail/!64x64r/gravity/Center/crop/64x64/",
+            "name": "鲜萃咖啡",
+            "foods": [
+                {
+                    "name": "三拼霸霸奶茶",
+                    "img": "https://p0.meituan.net/208.126/deal/16d3d4fcc6d352ad98bb94265f41a236119203.jpg@100w_100h_1e_1c",
+                    "month_sales": "椰果珍珠烧仙草，好大一碗喝到饱",
+                    "lowest_price": 8
+                },
+                {
+                    "name": "红豆奶茶",
+                    "img": "https://p0.meituan.net/208.126/deal/1f87cd1b3816a4248e35249e6173e3ab190222.jpg@100w_100h_1e_1c",
+                    "month_sales": "颗颗红豆，香甜软糯，全新营养新选择",
+                    "lowest_price": 7
+                },
+                {
+                    "name": "芋圆奶茶(升级版)",
+                    "img": "https://p1.meituan.net/208.126/deal/046428a95a64a1756d62245901bc4d9f172182.jpg@100w_100h_1e_1c",
+                    "month_sales": "软软芋圆，口感超Q弹",
+                    "lowest_price": 8
+                },
+                {
+                    "name": "美式咖啡",
+                    "img": "https://p0.meituan.net/208.126/deal/7e83b0040385d799bcb912e7bda50502139303.jpg@100w_100h_1e_1c",
+                    "month_sales": "鲜萃云南豆，国货好咖啡",
+                    "lowest_price": 4
+                },
+                {
+                    "name": "拿铁咖啡",
+                    "img": "https://p0.meituan.net/208.126/deal/706d497e40bced29633c5e1f3b23f21823984.jpg@100w_100h_1e_1c",
+                    "month_sales": "鲜萃云南豆，国货好咖啡",
+                    "lowest_price": 6
+                },
+                {
+                    "name": "芝士奶盖四季春",
+                    "img": "https://p0.meituan.net/208.126/deal/99bd9ca23bf51c5497a03f5836d1a52d146764.jpg@100w_100h_1e_1c",
+                    "month_sales": "绵绵咸芝士，纯纯四季春",
+                    "lowest_price": 8
+                },
+                {
+                    "name": "芝士奶盖红茶",
+                    "img": "https://p0.meituan.net/208.126/deal/706d497e40bced29633c5e1f3b23f21823984.jpg@100w_100h_1e_1c",
+                    "month_sales": "绵绵咸芝士，暖暖香红茶",
+                    "lowest_price": 8
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "5cf8cf4d815bda12289d8677",
+            "id": 7,
+            "img": "https://fuss10.elemecdn.com/f/f1/1a56c029ac67529dc07ce8be5b83fpng.png?imageMogr/thumbnail/!64x64r/gravity/Center/crop/64x64/",
+            "name": "芝士奶盖",
+            "foods": [
+                {
+                    "name": "芝士奶盖绿茶",
+                    "img": "https://p0.meituan.net/208.126/deal/efa75f7c36d75616adf765079b24cc3d129560.jpg@100w_100h_1e_1c",
+                    "month_sales": "绵绵咸芝士，清清翠绿茶",
+                    "lowest_price": 8
+                },
+                {
+                    "name": "高山四季春茶",
+                    "img": "https://p1.meituan.net/208.126/deal/0e7a9f691a393255c3a03dd47ee0d8aa124668.jpg@100w_100h_1e_1c",
+                    "month_sales": "我就是一杯浓浓的四季春",
+                    "lowest_price": 4
+                },
+                {
+                    "name": "伯爵红茶",
+                    "img": "https://p1.meituan.net/208.126/deal/7cd8051fcf9bfe4c87fcef1bf4bc0ec396003.jpg@100w_100h_1e_1c",
+                    "month_sales": "我就是一杯香香的红茶",
+                    "lowest_price": 4
+                },
+                {
+                    "name": "茉莉绿茶",
+                    "img": "https://p0.meituan.net/208.126/deal/95508cf2e8c0ea9f91f15932364ab3f8136814.jpg@100w_100h_1e_1c",
+                    "month_sales": "我就是一杯纯洁的绿茶",
+                    "lowest_price": 4
+                },
+                {
+                    "name": "草莓啵啵(升级版)",
+                    "img": "https://p0.meituan.net/208.126/deal/99bd9ca23bf51c5497a03f5836d1a52d146764.jpg@100w_100h_1e_1c",
+                    "month_sales": "草莓啵啵，甜蜜啵一个",
+                    "lowest_price": 9
+                },
+                {
+                    "name": "港式杨枝甘露(升级版)",
+                    "img": "https://p0.meituan.net/208.126/deal/efa75f7c36d75616adf765079b24cc3d129560.jpg@100w_100h_1e_1c",
+                    "month_sales": "芒果加西柚，双倍鲜果肉",
+                    "lowest_price": 10
+                },
+                {
+                    "name": "草莓奶露",
+                    "img": "https://p1.meituan.net/208.126/deal/0e7a9f691a393255c3a03dd47ee0d8aa124668.jpg@100w_100h_1e_1c",
+                    "month_sales": "草莓正当季，甜到银河系",
+                    "lowest_price": 10
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "5cf8cf4d815bda12289d8678",
+            "id": 8,
+            "img": "https://fuss10.elemecdn.com/d/27/a6a977994aeb2de03fb3893b56e65png.png?imageMogr/thumbnail/!64x64r/gravity/Center/crop/64x64/",
+            "name": "原叶纯茶",
+            "foods": [
+                {
+                    "name": "三拼霸霸奶茶",
+                    "img": "https://p0.meituan.net/208.126/deal/16d3d4fcc6d352ad98bb94265f41a236119203.jpg@100w_100h_1e_1c",
+                    "month_sales": "椰果珍珠烧仙草，好大一碗喝到饱",
+                    "lowest_price": 8
+                },
+                {
+                    "name": "红豆奶茶",
+                    "img": "https://p0.meituan.net/208.126/deal/1f87cd1b3816a4248e35249e6173e3ab190222.jpg@100w_100h_1e_1c",
+                    "month_sales": "颗颗红豆，香甜软糯，全新营养新选择",
+                    "lowest_price": 7
+                },
+                {
+                    "name": "芋圆奶茶(升级版)",
+                    "img": "https://p1.meituan.net/208.126/deal/046428a95a64a1756d62245901bc4d9f172182.jpg@100w_100h_1e_1c",
+                    "month_sales": "软软芋圆，口感超Q弹",
+                    "lowest_price": 8
+                },
+                {
+                    "name": "美式咖啡",
+                    "img": "https://p0.meituan.net/208.126/deal/7e83b0040385d799bcb912e7bda50502139303.jpg@100w_100h_1e_1c",
+                    "month_sales": "鲜萃云南豆，国货好咖啡",
+                    "lowest_price": 4
+                },
+                {
+                    "name": "拿铁咖啡",
+                    "img": "https://p0.meituan.net/208.126/deal/706d497e40bced29633c5e1f3b23f21823984.jpg@100w_100h_1e_1c",
+                    "month_sales": "鲜萃云南豆，国货好咖啡",
+                    "lowest_price": 6
+                },
+                {
+                    "name": "芝士奶盖四季春",
+                    "img": "https://p0.meituan.net/208.126/deal/99bd9ca23bf51c5497a03f5836d1a52d146764.jpg@100w_100h_1e_1c",
+                    "month_sales": "绵绵咸芝士，纯纯四季春",
+                    "lowest_price": 8
+                },
+                {
+                    "name": "芝士奶盖红茶",
+                    "img": "https://p0.meituan.net/208.126/deal/706d497e40bced29633c5e1f3b23f21823984.jpg@100w_100h_1e_1c",
+                    "month_sales": "绵绵咸芝士，暖暖香红茶",
+                    "lowest_price": 8
+                }
+            ],
+            "__v": 0
+        }
+    ]
+}
